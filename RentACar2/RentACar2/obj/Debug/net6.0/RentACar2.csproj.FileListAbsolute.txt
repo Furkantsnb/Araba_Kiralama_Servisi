@@ -13,3 +13,18 @@ C:\Users\furka\Desktop\c# projelerim\RentACar2\RentACar2\obj\Debug\net6.0\refint
 C:\Users\furka\Desktop\c# projelerim\RentACar2\RentACar2\obj\Debug\net6.0\RentACar2.pdb
 C:\Users\furka\Desktop\c# projelerim\RentACar2\RentACar2\obj\Debug\net6.0\RentACar2.genruntimeconfig.cache
 C:\Users\furka\Desktop\c# projelerim\RentACar2\RentACar2\obj\Debug\net6.0\ref\RentACar2.dll
+C:\Users\furka\Documents\GitHub\Araba_Kiralama_Servisi\RentACar2\RentACar2\bin\Debug\net6.0\RentACar2.exe
+C:\Users\furka\Documents\GitHub\Araba_Kiralama_Servisi\RentACar2\RentACar2\bin\Debug\net6.0\RentACar2.deps.json
+C:\Users\furka\Documents\GitHub\Araba_Kiralama_Servisi\RentACar2\RentACar2\bin\Debug\net6.0\RentACar2.runtimeconfig.json
+C:\Users\furka\Documents\GitHub\Araba_Kiralama_Servisi\RentACar2\RentACar2\bin\Debug\net6.0\RentACar2.dll
+C:\Users\furka\Documents\GitHub\Araba_Kiralama_Servisi\RentACar2\RentACar2\bin\Debug\net6.0\RentACar2.pdb
+C:\Users\furka\Documents\GitHub\Araba_Kiralama_Servisi\RentACar2\RentACar2\obj\Debug\net6.0\RentACar2.csproj.AssemblyReference.cache
+C:\Users\furka\Documents\GitHub\Araba_Kiralama_Servisi\RentACar2\RentACar2\obj\Debug\net6.0\RentACar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Documents\GitHub\Araba_Kiralama_Servisi\RentACar2\RentACar2\obj\Debug\net6.0\RentACar2.AssemblyInfoInputs.cache
+C:\Users\furka\Documents\GitHub\Araba_Kiralama_Servisi\RentACar2\RentACar2\obj\Debug\net6.0\RentACar2.AssemblyInfo.cs
+C:\Users\furka\Documents\GitHub\Araba_Kiralama_Servisi\RentACar2\RentACar2\obj\Debug\net6.0\RentACar2.csproj.CoreCompileInputs.cache
+C:\Users\furka\Documents\GitHub\Araba_Kiralama_Servisi\RentACar2\RentACar2\obj\Debug\net6.0\RentACar2.dll
+C:\Users\furka\Documents\GitHub\Araba_Kiralama_Servisi\RentACar2\RentACar2\obj\Debug\net6.0\refint\RentACar2.dll
+C:\Users\furka\Documents\GitHub\Araba_Kiralama_Servisi\RentACar2\RentACar2\obj\Debug\net6.0\RentACar2.pdb
+C:\Users\furka\Documents\GitHub\Araba_Kiralama_Servisi\RentACar2\RentACar2\obj\Debug\net6.0\RentACar2.genruntimeconfig.cache
+C:\Users\furka\Documents\GitHub\Araba_Kiralama_Servisi\RentACar2\RentACar2\obj\Debug\net6.0\ref\RentACar2.dll
